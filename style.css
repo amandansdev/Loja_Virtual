@@ -1,0 +1,88 @@
+
+body {
+  background-color: rgb(204, 198, 199);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+
+h1 {
+  color: darkmagenta;
+  font-size: 30px;
+  padding: 10px;
+}
+
+
+div {
+  margin-bottom: 20px;
+}
+
+a {
+  color: white;
+  background-color: darkmagenta;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: lightcoral;
+}
+
+
+h2 {
+  color: darkmagenta;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: darkmagenta;
+  color: white;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 30px;
+}
+
+#rodape{
+    margin-top: 200px;
+    position: relative;
+}
+
+#amanda-perfil{
+    width: 500px;
+    border-radius: 14px;
+}
+
+#daniel-perfil{
+  border-radius: 14px;
+}
+
+#jessica-perfil{
+  width: 200px;
+  border-radius: 14px;
+  position: relative;
+}
+
+#shirley-perfil{
+  width: 200px;
+  border-radius: 14px;
+  position: relative;
+}
+
+#eduarda-do-futuro{
+  width: 200px;
+  border-radius: 14px;
+  position: relative;
+}
+
+#celso-estiloso{
+  width: 220px;
+  border-radius: 14px;
+  position: relative;
+}
+
+#sobre{
+    margin-top: 120px;
+}
